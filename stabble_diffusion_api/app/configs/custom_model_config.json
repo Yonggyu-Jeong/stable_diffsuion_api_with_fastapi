@@ -1,0 +1,11 @@
+{
+  "hf_token": "",
+  "custom_models": [
+    {
+      "model_path": "",
+      "ui_label": "",
+      "url_path": "",
+      "requires_safety_checker": true
+    }
+  ]
+}
